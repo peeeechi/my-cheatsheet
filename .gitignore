@@ -1,0 +1,5 @@
+__*
+.npm
+node_modules
+.bash_history
+package-lock.json
